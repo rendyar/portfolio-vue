@@ -4,7 +4,7 @@
       
         <RouterLink to="/personal">Personal</RouterLink>
         <RouterLink to="/skill">Skill</RouterLink>
-        <RouterLink to="/portfolio">Portfolio</RouterLink>
+
         
     </nav>
     

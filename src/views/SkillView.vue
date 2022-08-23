@@ -29,6 +29,7 @@ export default {
     <div class="progress">
     <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
     </div>
+    <br><br><br>
 </template>
 
 <style>
