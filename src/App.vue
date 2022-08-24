@@ -20,6 +20,7 @@ import Footer from './components/Footer.vue';
   </header> -->
    
     <div class="container">
+      <div class="shadow p-3 mb-5 bg-body rounded mt-5">
       <Menu />
       <div class="content my-5">
         <img alt="logo" class="logo mx-5" src="@/assets/foto.jpg" width="250" height="370" />
@@ -34,6 +35,8 @@ import Footer from './components/Footer.vue';
         </p>
       </div>
   </div>
+      </div>
+      
    
     <RouterView />
     </div>
